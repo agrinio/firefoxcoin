@@ -1,0 +1,4 @@
+firefoxcoin
+===========
+
+Cryptocurrency coin
